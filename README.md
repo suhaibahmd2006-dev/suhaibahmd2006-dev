@@ -7,7 +7,7 @@ An aspiring IT professional and developer dedicated to building responsive front
 ### 🚀 About Me
 * 🎓 **Education:** Information Technology Student at **Bahria University (E-8 Campus, Islamabad)**.
 * 💻 **Training:** Formally trained in Front-End Development at **IBA University Sukkur**.
-* 🎯 **Current Focus:** Leveling up my full-stack engineering skills by diving deeper into backend architecture, database logic, and advanced software design.
+* 🎯 **Current Focus:** Expanding my skill set into backend logic, relational databases, and problem-solving. Currently mastering **C++**, **Python**, **FastAPI**, and **SQLAlchemy ORM**.
 * 🌐 **Live Portfolio:** Explore my work over at [portfolio-omega-fawn-86.vercel.app](https://portfolio-omega-fawn-86.vercel.app/)
 
 ---
@@ -19,7 +19,7 @@ An aspiring IT professional and developer dedicated to building responsive front
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Backend & Problem Solving
+#### Backend & Databases
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -30,9 +30,11 @@ An aspiring IT professional and developer dedicated to building responsive front
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+---
+
 ### 📂 Highlighted Project
 ⚡ **[User Management API](https://github.com/suhaibahmd2006-dev/user-management-api)**
-A modern user registration and details server built using **FastAPI** and **SQLAlchemy ORM (SQLite)**. Features structural path/query routing parameters and custom Pydantic models with `from_attributes` serialization to serve clean database payloads securely.
+A lightweight, modern user registration and retrieval server built using **FastAPI** and **SQLAlchemy ORM** with an **SQLite** database backend. Features custom Pydantic schemas utilizing `from_attributes` serialization to map relational objects cleanly into clean API payloads.
 
 ---
 
